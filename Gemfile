@@ -7,6 +7,7 @@ ruby "2.5.1"
 
 gem "rails", "~> 5.2.0"
 
+gem "aws-sdk-s3"
 gem "bootsnap", require: false
 gem "jbuilder"
 gem "mini_magick"
